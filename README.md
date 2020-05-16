@@ -1,3 +1,7 @@
+**This forked repo contains all necessary, pull request that is not being merged with the original repo that is supposed to be merged.**
+
+<br>
+
 [![npm version](https://badge.fury.io/js/react-native-modal-dropdown.svg)](https://badge.fury.io/js/react-native-modal-dropdown)
 
 # react-native-modal-dropdown
