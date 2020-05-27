@@ -23,6 +23,9 @@ You can find them in the example.
 
 ## Update History
 
+### v0.7.1
+- Fix for react native 0.62 (bump deprecated-react-native-listview).
+
 ### v0.7.0
 - Quick fix for react native 0.60. (Thanks to [@ibtesamlatif2997](https://github.com/ibtesamlatif2997))
 
